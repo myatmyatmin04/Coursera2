@@ -1,1 +1,1 @@
-# Coursera2
+# ProgrammingAssignment2
